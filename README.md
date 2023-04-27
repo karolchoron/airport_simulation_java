@@ -7,7 +7,6 @@ A student project made in Java depicting a simulation of airport operations. Inc
 
 ------------------------------------------------------------------------------
 
-<br>
 Projekt studencki wykonany w języku Java przedstawiający symulację pracy lotniska. 
 W projekcie uwzględnione są informacje o samolotach znajdujących się na płycie lotniska, w powietrzu oraz odnosnie pasażerów czekających w kolejce do okienka na lotnisku.
 Aplikacja wyświetla informacje na wykresie oraz w konsoli tekstowej.
